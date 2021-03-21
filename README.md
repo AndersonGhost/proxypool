@@ -28,6 +28,9 @@
 - 提供clash、surge配置文件
 - 提供ss、ssr、vmess、sip002订阅
 
+使用一键脚本安装到VPS (Littleyu增加一键脚本安装功能，目前仅支持CentOS 7操作系统)
+wget https://raw.githubusercontent.com/lanhebe/proxypool/master/onekey_install.sh && chmod +x onekey_install.sh && ./onekey_install.sh
+
 ## 安装
 
 以下五选一。
