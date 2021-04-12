@@ -29,9 +29,11 @@
 - 提供ss、ssr、vmess、sip002订阅
 
 使用一键脚本安装到VPS (Littleyu增加一键脚本安装功能，目前仅支持CentOS 7操作系统) （链接：https://github.com/lanhebe/proxypool）
+
 wget https://raw.githubusercontent.com/lanhebe/proxypool/master/onekey_install.sh && chmod +x onekey_install.sh && ./onekey_install.sh
 
 VPS上利用一键脚本快速而轻松无人值守安装Xray+爬虫网站：（https://yugogo.xyz/?p=1326）
+
 wget https://raw.githubusercontent.com/lanhebe/proxypool/master/onekey_install_xray_pc.sh && chmod +x onekey_install_xray_pc.sh &&./onekey_install_xray_pc.sh
 
 
