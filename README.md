@@ -35,6 +35,7 @@ VPS上利用一键脚本快速而轻松无人值守安装Xray+爬虫网站（htt
 wget https://raw.githubusercontent.com/lanhebe/proxypool/master/onekey_install_xray_pc.sh && chmod +x onekey_install_xray_pc.sh &&./onekey_install_xray_pc.sh
 
 
+
 ## 安装
 
 以下五选一。
